@@ -1,6 +1,7 @@
 <?php
 // playlist_api.php — Playlist Finder backend (Standalone & Zero-DB)
-// GET /api/playlist_api.php?id=PLAYLIST_ID_OR_URL&mode=basic
+// GET /api/playlist_api.php?id=PLAYLIST_ID_OR_URL&mode=basic 
+//
 ob_start();
 ini_set('display_errors', 0);
 error_reporting(0);
